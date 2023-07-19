@@ -9,6 +9,24 @@ body div {
     margin: 1rem;
 }
 
+.boton-style {
+    display: inline-block;
+    width: 50px;
+    font-weight: 700;
+    border-radius: 10px;
+    margin: 10px 10px;
+    padding: 15px 30px;
+    text-decoration: none;
+    color: #fff;
+    background-color: rgb(0, 0, 0);
+}
+
+.boton-style:hover {
+    background-color: aqua;
+    border: 2px solid rgb(0, 0, 0);
+    color: rgb(0, 0, 0);
+}
+
 .name {
     text-align: center;
     font-size: 36px;
