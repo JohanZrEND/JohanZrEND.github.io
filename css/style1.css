@@ -1,6 +1,6 @@
 body {
     font-family: serif, sans-serif;
-    background-color: .f2f2f2;
+    background-color: #f2f2f2;
     margin: 0;
     padding: 20px;
 }
@@ -11,7 +11,7 @@ body div {
 
 .name {
     text-align: center;
-    font-size: 32px;
+    font-size: 36px;
 }
 
 .surnames {
@@ -183,7 +183,7 @@ body div {
 }
 
 .main_wrapper {
-    background-color: .fff;
+    background-color: #fff;
     border-radius: 10px;
     box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
     padding: 20px;
@@ -200,7 +200,7 @@ body div {
 }
 
 .link-style {
-    color: .007bff;
+    color: #007bff;
     text-decoration: none;
 }
 
@@ -227,7 +227,7 @@ ul {
 }
 
 .section-header {
-    background-color: .f2f2f2;
+    background-color: #f2f2f2;
     padding: 10px;
 }
 
