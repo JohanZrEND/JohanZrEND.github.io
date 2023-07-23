@@ -74,11 +74,8 @@ a {
 }
 
 .main_wrapper {
-<<<<<<< HEAD
     background-color: #fff;
     border-radius: 8px;
-=======
->>>>>>> bbc4e533643e377d1459b2e50b51beca7f5123a0
     box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
 }
 
@@ -88,7 +85,6 @@ a {
 
 .section-header {
     background-color: #f2f2f2;
-<<<<<<< HEAD
     padding: 10px;
 }
 
@@ -102,6 +98,4 @@ a {
 
 .section-content ul {
     padding-left: 20px;
-=======
->>>>>>> bbc4e533643e377d1459b2e50b51beca7f5123a0
 }

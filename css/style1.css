@@ -1,5 +1,4 @@
 body {
-<<<<<<< HEAD
     font-family: serif, sans-serif;
     background-color: #f2f2f2;
     margin: 0;
@@ -55,9 +54,8 @@ body div {
 
 .settings {
     display: none;
-=======
     background-color: #d5d5d5;
->>>>>>> bbc4e533643e377d1459b2e50b51beca7f5123a0
+
 }
 
 .aboutMe {
@@ -134,17 +132,13 @@ body div {
 }
 
 .main_wrapper {
-<<<<<<< HEAD
     background-color: #fff;
     border-radius: 10px;
-=======
->>>>>>> bbc4e533643e377d1459b2e50b51beca7f5123a0
     box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
 }
 
 .link-style {
     color: #007bff;
-<<<<<<< HEAD
     text-decoration: none;
 }
 
@@ -168,13 +162,10 @@ ul {
 
 .section {
     margin-bottom: 40px;
-=======
->>>>>>> bbc4e533643e377d1459b2e50b51beca7f5123a0
 }
 
 .section-header {
     background-color: #f2f2f2;
-<<<<<<< HEAD
     padding: 10px;
 }
 
@@ -188,6 +179,4 @@ ul {
 
 .section-content ul {
     padding-left: 20px;
-=======
->>>>>>> bbc4e533643e377d1459b2e50b51beca7f5123a0
 }
